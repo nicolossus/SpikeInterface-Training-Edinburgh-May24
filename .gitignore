@@ -1,3 +1,12 @@
+dataset_curation
+dataset_postprocessing
+dataset_preprocessing
+openephys_recording
+probe_handling
+
+.DS_store
+notes.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
